@@ -15,6 +15,6 @@ Lien vers le repository projet android : [Lien Repository](https://github.com/Ro
 
 Lien vers le projet rework :  [Lien Repository](https://github.com/STONNEEEE/StatiSalle_SAE-S3_WEB)
 
-Lien vers le drive du projet à rework :  [Lien Drive](https://github.com/STONNEEEE/StatiSalle_SAE-S3_WEB](https://drive.google.com/drive/folders/1vt5U-agMvmCEU7kloRSSkxKgrbM7QKfS)
+Lien vers le drive du projet à rework :  [Lien Drive](https://drive.google.com/drive/folders/1vt5U-agMvmCEU7kloRSSkxKgrbM7QKfS)
 
 Lien vers le dossier google drive : [Lien drive](https://drive.google.com/drive/u/0/folders/0AFmlbOnMpqjHUk9PVA)
